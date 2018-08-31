@@ -2,12 +2,12 @@
     {
         "id": 123,
         "title": "Test 1",
-        "sku": "12345",
         "description": "Test description",
         "link": "http://store.com/link/product",
         "image_link": "http://store.com/link/product.jpg",
         "price": "100.00 BRL",
         "promo_price": "90.00 BRL",
-        "availability": "in_stock"
+        "availability": "in_stock",
+        "ean": "123456790"
     }
 ]
